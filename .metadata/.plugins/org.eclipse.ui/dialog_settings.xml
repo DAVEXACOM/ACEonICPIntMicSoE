@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ProjectInterchangeZipFileExportWizard">
+		<list key="PROJ_INTER_EXPORT_interchange">
+			<item value="C:\Users\DavidArnold\IBM\gitREPOS\ACEonICPIntSupportingMaterial\ace-livelinessProbe\aceLivelinessProbePI.zip"/>
+			<item value="C:\SHARE\productstechnology\iCP\Breakfast-March-2018\Nov2018Demo\ACEFlows\ACE-ICP-Liveliness-Artefacts.zip"/>
+		</list>
+	</section>
+	<section name="ProjectInterchangeImportWizard">
+		<list key="PROJ_INTER_IMPORT_interchange_import">
+			<item value="C:\SHARE\productstechnology\iCP\Breakfast-March-2018\Nov2018Demo\ACEFlows\ACE-ICP-Demo-Artefacts.zip"/>
+		</list>
+	</section>
+</section>
